@@ -67,7 +67,7 @@
             <!-- Place form in center -->
             <i class="fa fa-user-circle-o text-info" aria-hidden="true" style="font-size:50px;position:absolute;top:-30px"></i>
 
-                <h6>I can't wait to create account</h6><br><br>
+                <h6>I can't wait to create accounts</h6><br><br>
                 
             <form action="insertData.php" method="post">
         <div class="row g-1">
